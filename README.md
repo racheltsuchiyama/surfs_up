@@ -21,7 +21,4 @@ The purpose of this project was to determine if a combination ice cream and surf
 
 ## Summary
 
-The June months had warmer temperatures than the December months. The average temperature and quartiles were all higher in June than December. However, the difference between the two was not very significant. Therefore, the temperatures throughout the year in Oahu would not drive customers away. However, one investor was particularly concerned about the precipitation having a negative impact on the store's success. I would write additional queries measuring the precipitation levels in the June and December months.
-
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
+The June months had warmer temperatures than the December months. The average temperature and quartiles were all higher in June than December. However, the difference between the two was not very significant. Therefore, the temperatures throughout the year in Oahu would not drive customers away. However, one investor was particularly concerned about the precipitation having a negative impact on the store's success. I would write additional queries measuring the precipitation levels in the June and December months. Instead of querying the temperature in June and December, I would extract the precipitation and put the resulting statistics into tables.
